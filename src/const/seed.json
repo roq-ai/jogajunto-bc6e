@@ -1,0 +1,2018 @@
+[
+  {
+    "ranking": [
+      {
+        "id": "f3901fec-9442-491f-94e0-89abf3fdad30",
+        "score": 93698,
+        "fair_play": 3945,
+        "playability": 8541,
+        "punctuality": 26010,
+        "availability": 39410,
+        "created_at": "2023-09-06T01:25:22.168Z",
+        "updated_at": "2023-09-05T22:02:24.428Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97de689b-c1c5-4894-b45d-35c093f629ed",
+        "score": 33832,
+        "fair_play": 5178,
+        "playability": 71936,
+        "punctuality": 30444,
+        "availability": 44198,
+        "created_at": "2023-09-05T19:43:00.924Z",
+        "updated_at": "2023-09-06T00:28:47.989Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5350eed-882a-47ae-b75d-38395e7f006f",
+        "score": 68172,
+        "fair_play": 89974,
+        "playability": 3036,
+        "punctuality": 91824,
+        "availability": 10447,
+        "created_at": "2023-09-05T17:42:17.076Z",
+        "updated_at": "2023-09-05T20:43:21.411Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab9fe34f-4229-424c-815b-b4b8f6f6e50f",
+        "score": 95593,
+        "fair_play": 11929,
+        "playability": 87349,
+        "punctuality": 90052,
+        "availability": 35029,
+        "created_at": "2023-09-05T21:52:32.131Z",
+        "updated_at": "2023-09-06T15:42:10.026Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e6efd1d0-495a-49f0-9adc-6baf16492128",
+        "score": 23615,
+        "fair_play": 65774,
+        "playability": 76595,
+        "punctuality": 90445,
+        "availability": 85906,
+        "created_at": "2023-09-06T06:35:21.621Z",
+        "updated_at": "2023-09-06T06:37:20.134Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "58c53fa3-495c-43d9-a810-412fa86c1d11",
+        "name": "Sales Team",
+        "description": "Responsible for driving sales and revenue growth",
+        "created_at": "2023-09-05T23:05:17.107Z",
+        "updated_at": "2023-09-06T10:23:24.639Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "41ef0ea4-8687-4930-bab6-3d8afa624615",
+        "name": "Marketing Department",
+        "description": "Handles all marketing campaigns and promotions",
+        "created_at": "2023-09-05T18:43:46.140Z",
+        "updated_at": "2023-09-06T00:48:44.982Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbe7b209-9889-48d3-91b1-27c49f31f0f9",
+        "name": "Product Development Group",
+        "description": "Develops new products and improves existing ones",
+        "created_at": "2023-09-06T12:59:31.037Z",
+        "updated_at": "2023-09-06T12:15:07.199Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a65fc82-7a22-4ce3-8b10-fe499f4a0df3",
+        "name": "Customer Support Team",
+        "description": "Provides assistance and resolves customer issues",
+        "created_at": "2023-09-06T16:04:51.794Z",
+        "updated_at": "2023-09-06T03:47:20.702Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a05549d-2970-449c-a1e7-960a4f856b0a",
+        "name": "Finance Committee",
+        "description": "Oversees financial planning and budgeting",
+        "created_at": "2023-09-06T10:47:19.737Z",
+        "updated_at": "2023-09-06T01:44:49.845Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "e0c2b582-f614-449a-86ce-fc5c69a88dc0",
+        "name": "Supreme Court",
+        "location": "Washington, D.C.",
+        "availability_status": true,
+        "created_at": "2023-09-06T07:29:41.631Z",
+        "updated_at": "2023-09-06T14:10:32.279Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6fff1fdd-b187-4e3a-853f-e4e7a48da0dd",
+        "name": "District Court",
+        "location": "New York City, NY",
+        "availability_status": true,
+        "created_at": "2023-09-06T09:33:18.162Z",
+        "updated_at": "2023-09-06T10:05:13.889Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebc51295-476d-4fbb-9260-72d4b60bdaf1",
+        "name": "Appellate Court",
+        "location": "San Francisco, CA",
+        "availability_status": true,
+        "created_at": "2023-09-06T08:03:34.196Z",
+        "updated_at": "2023-09-05T23:57:20.244Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6bbf5fd5-bdb1-46fe-9527-77e4acd01369",
+        "name": "Family Court",
+        "location": "Chicago, IL",
+        "availability_status": true,
+        "created_at": "2023-09-06T06:22:55.309Z",
+        "updated_at": "2023-09-06T11:35:22.870Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22ab71ca-9660-4cde-acc0-be69dccff1e1",
+        "name": "Juvenile Court",
+        "location": "Houston, TX",
+        "availability_status": true,
+        "created_at": "2023-09-06T02:56:00.876Z",
+        "updated_at": "2023-09-05T20:39:37.075Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "25bfe76e-d662-44e5-b4e0-88690425569e",
+        "date": "2023-09-05T21:04:02.263Z",
+        "time": "2023-09-05T22:31:09.719Z",
+        "location": "Stadium A",
+        "status": "In progress",
+        "created_at": "2023-09-05T22:00:38.042Z",
+        "updated_at": "2023-09-06T10:14:44.027Z",
+        "court_id": "ebc51295-476d-4fbb-9260-72d4b60bdaf1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5d72ccc8-f2f5-425e-9104-4ad3b25e3beb",
+        "date": "2023-09-06T04:04:56.620Z",
+        "time": "2023-09-06T08:45:51.361Z",
+        "location": "Arena B",
+        "status": "Completed",
+        "created_at": "2023-09-06T15:27:02.399Z",
+        "updated_at": "2023-09-06T06:21:07.255Z",
+        "court_id": "6fff1fdd-b187-4e3a-853f-e4e7a48da0dd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c335eb9e-5a97-4609-954f-71df18a8fb25",
+        "date": "2023-09-06T10:45:21.608Z",
+        "time": "2023-09-06T13:31:52.663Z",
+        "location": "Field C",
+        "status": "Cancelled",
+        "created_at": "2023-09-06T10:28:38.122Z",
+        "updated_at": "2023-09-06T02:20:47.401Z",
+        "court_id": "6bbf5fd5-bdb1-46fe-9527-77e4acd01369",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ada5079-8e59-4051-bece-243da08d6908",
+        "date": "2023-09-06T00:56:40.717Z",
+        "time": "2023-09-05T22:30:28.472Z",
+        "location": "Court D",
+        "status": "Postponed",
+        "created_at": "2023-09-05T18:15:01.088Z",
+        "updated_at": "2023-09-06T01:38:23.072Z",
+        "court_id": "e0c2b582-f614-449a-86ce-fc5c69a88dc0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb6cebd2-998d-4483-88e7-bbc50f67093b",
+        "date": "2023-09-06T12:58:19.667Z",
+        "time": "2023-09-06T12:47:18.886Z",
+        "location": "Gymnasium E",
+        "status": "Upcoming",
+        "created_at": "2023-09-06T03:22:08.967Z",
+        "updated_at": "2023-09-05T17:06:46.711Z",
+        "court_id": "6bbf5fd5-bdb1-46fe-9527-77e4acd01369",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dc5a82a9-deff-4243-b551-62b332eb20ae",
+        "email": "Delores4@gmail.com",
+        "firstName": "Nelle",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/624.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "784e02e1-183e-4cdf-afe8-266f8c8f5939",
+        "email": "Annabelle.Dickens12@gmail.com",
+        "firstName": "Felicia",
+        "lastName": "Wehner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/856.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7dc14259-5ac6-47b0-8f8f-2521bc7e9237",
+        "email": "Ellen17@hotmail.com",
+        "firstName": "Flo",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/217.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "96ee1a49-fd8c-431a-8a02-a02a0e42fc68",
+        "email": "Zelda6@hotmail.com",
+        "firstName": "Bryce",
+        "lastName": "Labadie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6629846",
+        "tenantId": null
+      },
+      {
+        "reference": "67aca473-29c8-475e-b479-b939d63b1993",
+        "email": "Candido.Harris@gmail.com",
+        "firstName": "Monique",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47529682",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "ranking": [
+      {
+        "id": "793085ae-25c0-406c-bce1-df0f08c136c0",
+        "score": 72579,
+        "fair_play": 42459,
+        "playability": 22005,
+        "punctuality": 24817,
+        "availability": 6483,
+        "created_at": "2023-09-06T02:00:39.155Z",
+        "updated_at": "2023-09-06T07:09:45.632Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ecd40683-4a08-4775-a878-0f2f134c62a2",
+        "score": 71622,
+        "fair_play": 47069,
+        "playability": 19304,
+        "punctuality": 18378,
+        "availability": 28610,
+        "created_at": "2023-09-06T05:11:04.756Z",
+        "updated_at": "2023-09-05T18:31:51.946Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd62d2cb-f6c9-4bef-b2be-e5d2c51b686f",
+        "score": 42175,
+        "fair_play": 84148,
+        "playability": 72830,
+        "punctuality": 32843,
+        "availability": 13886,
+        "created_at": "2023-09-06T11:13:58.068Z",
+        "updated_at": "2023-09-06T00:52:54.503Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f59b9b0b-37af-439c-87e6-f91fe685f40e",
+        "score": 93457,
+        "fair_play": 98012,
+        "playability": 26533,
+        "punctuality": 18509,
+        "availability": 29276,
+        "created_at": "2023-09-06T04:56:11.100Z",
+        "updated_at": "2023-09-06T15:04:33.132Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23ebf2e3-caf8-4aa2-8ff0-59dd814d6bd0",
+        "score": 2957,
+        "fair_play": 7377,
+        "playability": 71578,
+        "punctuality": 51047,
+        "availability": 74174,
+        "created_at": "2023-09-06T08:44:11.358Z",
+        "updated_at": "2023-09-06T03:08:24.094Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "2187d8f0-3181-4951-8a62-3fcb2ae49843",
+        "name": "Sports Enthusiasts",
+        "description": "A group for people passionate about sports and outdoor activities",
+        "created_at": "2023-09-05T23:59:36.108Z",
+        "updated_at": "2023-09-06T10:59:14.182Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec0fb389-9891-4ea1-b26a-81e6d8fa9df2",
+        "name": "Art Lovers",
+        "description": "A community of art enthusiasts sharing their love for creativity",
+        "created_at": "2023-09-06T05:44:42.465Z",
+        "updated_at": "2023-09-05T22:51:11.962Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef1c2932-e945-4988-a93b-909af591444b",
+        "name": "Book Club",
+        "description": "A club for bookworms to discuss and explore literature",
+        "created_at": "2023-09-06T04:05:56.796Z",
+        "updated_at": "2023-09-05T17:35:39.296Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a101279-7a46-4943-bd22-a258c51198c3",
+        "name": "Adventure Seekers",
+        "description": "A group for thrill-seekers who love adventure and adrenaline",
+        "created_at": "2023-09-06T12:22:28.493Z",
+        "updated_at": "2023-09-06T07:43:38.933Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f1b3f16-2d46-4688-8e08-926136a77275",
+        "name": "Music Junkies",
+        "description": "A community of music lovers connecting through their favorite tunes",
+        "created_at": "2023-09-05T18:51:56.510Z",
+        "updated_at": "2023-09-06T03:34:51.384Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "67dfb43a-0124-4f4d-803b-4a73dc42d2e4",
+        "name": "City Central Court",
+        "location": "New York City",
+        "availability_status": false,
+        "created_at": "2023-09-06T11:35:09.697Z",
+        "updated_at": "2023-09-06T07:47:30.747Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b48934f9-dcb7-4549-b858-5bf80283bf70",
+        "name": "District Court of Justice",
+        "location": "Los Angeles",
+        "availability_status": true,
+        "created_at": "2023-09-06T16:10:52.753Z",
+        "updated_at": "2023-09-06T11:30:23.671Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c449a840-f6fe-4a59-bc1f-8bc1440653d9",
+        "name": "Supreme Court of Law",
+        "location": "London",
+        "availability_status": false,
+        "created_at": "2023-09-06T12:36:23.545Z",
+        "updated_at": "2023-09-06T11:37:06.438Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df86b430-3ecc-440a-adec-007d04bce1a3",
+        "name": "High Court of Justice",
+        "location": "Paris",
+        "availability_status": false,
+        "created_at": "2023-09-06T13:16:43.016Z",
+        "updated_at": "2023-09-06T04:06:49.337Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a698d17b-4627-483d-bc46-be9d201c7598",
+        "name": "Federal Court",
+        "location": "Tokyo",
+        "availability_status": false,
+        "created_at": "2023-09-06T09:53:36.656Z",
+        "updated_at": "2023-09-05T20:14:49.376Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "95780603-c57f-4bfa-8c5f-0ba03e9812b6",
+        "date": "2023-09-05T19:08:49.708Z",
+        "time": "2023-09-06T14:42:17.047Z",
+        "location": "Stadium A",
+        "status": "Upcoming",
+        "created_at": "2023-09-06T16:27:53.963Z",
+        "updated_at": "2023-09-05T23:29:51.356Z",
+        "court_id": "a698d17b-4627-483d-bc46-be9d201c7598",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9152d24-1bcb-49d2-aa35-9f6e724452f6",
+        "date": "2023-09-05T22:57:13.765Z",
+        "time": "2023-09-06T07:02:08.932Z",
+        "location": "Arena B",
+        "status": "Ongoing",
+        "created_at": "2023-09-05T19:20:15.515Z",
+        "updated_at": "2023-09-06T01:22:00.271Z",
+        "court_id": "a698d17b-4627-483d-bc46-be9d201c7598",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b78c5f6-3847-4d18-977a-ff999eb4fc9e",
+        "date": "2023-09-06T14:52:26.716Z",
+        "time": "2023-09-05T21:10:05.409Z",
+        "location": "Field C",
+        "status": "Completed",
+        "created_at": "2023-09-06T01:35:39.177Z",
+        "updated_at": "2023-09-05T22:31:04.451Z",
+        "court_id": "67dfb43a-0124-4f4d-803b-4a73dc42d2e4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6fc1b1d-254c-4d81-8b5f-0c8a0c02f96e",
+        "date": "2023-09-06T04:32:02.446Z",
+        "time": "2023-09-06T08:31:27.816Z",
+        "location": "Court D",
+        "status": "Cancelled",
+        "created_at": "2023-09-06T11:00:53.721Z",
+        "updated_at": "2023-09-06T12:45:24.525Z",
+        "court_id": "67dfb43a-0124-4f4d-803b-4a73dc42d2e4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52e8c8a5-e06a-479b-8a1b-f1db7237eb08",
+        "date": "2023-09-06T12:02:49.135Z",
+        "time": "2023-09-05T18:41:36.399Z",
+        "location": "Pitch E",
+        "status": "Postponed",
+        "created_at": "2023-09-05T21:21:06.260Z",
+        "updated_at": "2023-09-06T09:09:31.292Z",
+        "court_id": "67dfb43a-0124-4f4d-803b-4a73dc42d2e4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c41e07b8-1554-4713-86b6-0d154a6584d2",
+        "email": "Mitchel.Reichel79@yahoo.com",
+        "firstName": "Angelica",
+        "lastName": "Stark",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/622.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5fade1cb-2943-4592-8bff-390fdeb29f34",
+        "email": "Cordell53@gmail.com",
+        "firstName": "Juston",
+        "lastName": "Bednar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/174.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "316ada35-fc71-45cb-b765-c9008d2dd939",
+        "email": "Rocky.Wyman41@hotmail.com",
+        "firstName": "Zoila",
+        "lastName": "Harris",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69327538",
+        "tenantId": null
+      },
+      {
+        "reference": "ddf35267-aa83-40f5-80f0-2de3db4f7da8",
+        "email": "Louisa41@hotmail.com",
+        "firstName": "Evan",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/373.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7693c30e-7fda-45da-9c0b-be57d5d2994d",
+        "email": "Dillon_Pouros@yahoo.com",
+        "firstName": "Stacy",
+        "lastName": "Franey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1101.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "ranking": [
+      {
+        "id": "f9ed9667-303e-449a-b847-dc9e956880f2",
+        "score": 83428,
+        "fair_play": 19010,
+        "playability": 70753,
+        "punctuality": 95869,
+        "availability": 57424,
+        "created_at": "2023-09-05T20:22:36.722Z",
+        "updated_at": "2023-09-06T08:12:10.259Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a2aa6c0-5a21-4263-b04c-bd8848774a40",
+        "score": 78259,
+        "fair_play": 40902,
+        "playability": 54,
+        "punctuality": 86702,
+        "availability": 67062,
+        "created_at": "2023-09-05T22:51:02.972Z",
+        "updated_at": "2023-09-05T17:35:59.371Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1d42b97-7559-4113-b75f-61412b9bbccf",
+        "score": 77259,
+        "fair_play": 36246,
+        "playability": 60554,
+        "punctuality": 95296,
+        "availability": 96990,
+        "created_at": "2023-09-06T15:23:05.804Z",
+        "updated_at": "2023-09-06T01:41:59.089Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4e2bb99-b337-43b8-a3c7-96b738d5470c",
+        "score": 12771,
+        "fair_play": 12664,
+        "playability": 44622,
+        "punctuality": 72670,
+        "availability": 50379,
+        "created_at": "2023-09-06T06:23:04.355Z",
+        "updated_at": "2023-09-05T19:03:00.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3fa26aca-2b6a-4263-9ca4-27796ec7a4d2",
+        "score": 73355,
+        "fair_play": 90704,
+        "playability": 10794,
+        "punctuality": 13293,
+        "availability": 11930,
+        "created_at": "2023-09-06T01:21:22.332Z",
+        "updated_at": "2023-09-05T23:20:23.280Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "c7fea8fa-ce15-4df3-9358-3c26efbe4828",
+        "name": "Sports Enthusiasts",
+        "description": "Group for people passionate about sports",
+        "created_at": "2023-09-05T18:06:56.454Z",
+        "updated_at": "2023-09-05T17:42:16.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "561b5233-9af7-41d0-97a4-cea7c47dcbc1",
+        "name": "Art Lovers",
+        "description": "Community of art enthusiasts",
+        "created_at": "2023-09-06T13:30:36.022Z",
+        "updated_at": "2023-09-06T06:24:33.542Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3bc93a5-1dfd-420e-81f1-5c9f9ce71320",
+        "name": "Book Club",
+        "description": "Club for book lovers",
+        "created_at": "2023-09-06T03:03:46.837Z",
+        "updated_at": "2023-09-06T11:50:05.696Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d842f00a-0e79-4569-ac4b-db780e09ace9",
+        "name": "Outdoor Adventurers",
+        "description": "Group organizing outdoor adventures",
+        "created_at": "2023-09-06T06:10:34.634Z",
+        "updated_at": "2023-09-06T11:28:00.889Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56574bbd-7286-49a9-940d-810d73e82f43",
+        "name": "Music Band",
+        "description": "Band playing various genres of music",
+        "created_at": "2023-09-06T00:27:12.604Z",
+        "updated_at": "2023-09-05T18:06:53.943Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "311149a0-f7d9-410a-bdba-ac5b86bd4a9d",
+        "name": "Central District Court",
+        "location": "City Center",
+        "availability_status": true,
+        "created_at": "2023-09-06T05:43:11.130Z",
+        "updated_at": "2023-09-05T20:55:09.080Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2e04831-5eda-4f5b-9cc6-0fbc8f1a6e8c",
+        "name": "Northside Municipal Court",
+        "location": "Downtown Area",
+        "availability_status": false,
+        "created_at": "2023-09-06T06:57:58.790Z",
+        "updated_at": "2023-09-05T21:32:21.388Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8748afb3-3906-43e6-8301-656e851405ee",
+        "name": "South County Court",
+        "location": "Suburban Neighborhood",
+        "availability_status": false,
+        "created_at": "2023-09-06T07:46:41.963Z",
+        "updated_at": "2023-09-06T07:48:39.252Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "253a6f4a-e281-4148-aa3d-bd3300fee321",
+        "name": "Westside Superior Court",
+        "location": "Coastal Region",
+        "availability_status": false,
+        "created_at": "2023-09-06T13:26:13.669Z",
+        "updated_at": "2023-09-06T01:14:45.263Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1900fc4-c241-4b22-89a0-5c7e9e049ba6",
+        "name": "East District Court",
+        "location": "Rural Countryside",
+        "availability_status": false,
+        "created_at": "2023-09-05T19:00:29.512Z",
+        "updated_at": "2023-09-05T21:20:39.031Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "996659cf-d01b-4b43-b81b-22fd1856ea54",
+        "date": "2023-09-05T21:36:12.832Z",
+        "time": "2023-09-06T10:59:34.721Z",
+        "location": "Stadium A",
+        "status": "In Progress",
+        "created_at": "2023-09-06T12:16:52.653Z",
+        "updated_at": "2023-09-06T11:12:00.678Z",
+        "court_id": "b2e04831-5eda-4f5b-9cc6-0fbc8f1a6e8c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff631ad6-cbb6-41c6-b0fc-f740c825da0e",
+        "date": "2023-09-05T22:26:01.201Z",
+        "time": "2023-09-06T03:00:20.791Z",
+        "location": "Arena B",
+        "status": "Completed",
+        "created_at": "2023-09-06T05:06:08.252Z",
+        "updated_at": "2023-09-06T10:17:08.088Z",
+        "court_id": "b1900fc4-c241-4b22-89a0-5c7e9e049ba6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9ff6b52-949f-4c47-ad74-c3057ac147b2",
+        "date": "2023-09-06T05:20:33.619Z",
+        "time": "2023-09-05T23:49:46.983Z",
+        "location": "Field C",
+        "status": "Upcoming",
+        "created_at": "2023-09-05T21:54:17.218Z",
+        "updated_at": "2023-09-06T07:34:20.587Z",
+        "court_id": "b1900fc4-c241-4b22-89a0-5c7e9e049ba6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "537fd9cd-c51a-4648-abe7-5977df3837b9",
+        "date": "2023-09-05T21:14:08.845Z",
+        "time": "2023-09-06T10:28:58.608Z",
+        "location": "Gymnasium D",
+        "status": "Cancelled",
+        "created_at": "2023-09-06T09:04:43.522Z",
+        "updated_at": "2023-09-06T10:45:15.881Z",
+        "court_id": "311149a0-f7d9-410a-bdba-ac5b86bd4a9d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07e64ad2-f2e2-4525-a238-c9dc4c46f74b",
+        "date": "2023-09-06T07:27:36.462Z",
+        "time": "2023-09-06T00:56:06.023Z",
+        "location": "Court E",
+        "status": "Postponed",
+        "created_at": "2023-09-06T00:03:41.405Z",
+        "updated_at": "2023-09-05T22:37:02.896Z",
+        "court_id": "b1900fc4-c241-4b22-89a0-5c7e9e049ba6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0fc1844f-0925-484e-a21c-4a3393031843",
+        "email": "Ara.Gerlach10@yahoo.com",
+        "firstName": "Simeon",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69469984",
+        "tenantId": null
+      },
+      {
+        "reference": "6fc69fc2-38fa-4cbb-8252-de29059a5f14",
+        "email": "Francisco_Kirlin26@yahoo.com",
+        "firstName": "Princess",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69892534",
+        "tenantId": null
+      },
+      {
+        "reference": "ce0752c4-790b-4b79-9ca5-933ecca7af17",
+        "email": "Anya.Kerluke79@yahoo.com",
+        "firstName": "Dameon",
+        "lastName": "Lynch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41446310",
+        "tenantId": null
+      },
+      {
+        "reference": "8f2f4986-f3fb-45c8-898d-303390e49376",
+        "email": "Okey72@hotmail.com",
+        "firstName": "Harley",
+        "lastName": "DuBuque",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/660.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "59881427-108f-412b-83bc-0bb358fdd526",
+        "email": "Brennan.Wintheiser77@yahoo.com",
+        "firstName": "Brandy",
+        "lastName": "White",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1164.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "ranking": [
+      {
+        "id": "d0466e6b-8466-4cb5-b829-e063337ba407",
+        "score": 31726,
+        "fair_play": 85408,
+        "playability": 42896,
+        "punctuality": 55372,
+        "availability": 50982,
+        "created_at": "2023-09-06T02:28:46.609Z",
+        "updated_at": "2023-09-05T22:58:22.229Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12687c8b-dd3d-4ac7-848f-866ef603649b",
+        "score": 62975,
+        "fair_play": 48687,
+        "playability": 73105,
+        "punctuality": 38901,
+        "availability": 34254,
+        "created_at": "2023-09-06T14:24:47.563Z",
+        "updated_at": "2023-09-05T22:03:17.632Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea802598-ed1a-4eb2-b2ec-577ad6574a6f",
+        "score": 89614,
+        "fair_play": 7644,
+        "playability": 40183,
+        "punctuality": 10471,
+        "availability": 33905,
+        "created_at": "2023-09-05T19:47:13.600Z",
+        "updated_at": "2023-09-06T00:49:01.050Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d940d1a2-ab99-4e27-9958-9905e536c06a",
+        "score": 66264,
+        "fair_play": 59452,
+        "playability": 22180,
+        "punctuality": 72404,
+        "availability": 70851,
+        "created_at": "2023-09-06T11:30:17.369Z",
+        "updated_at": "2023-09-06T14:59:23.488Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86c7363b-6f2b-4868-8775-dc133f4a95f4",
+        "score": 77761,
+        "fair_play": 53267,
+        "playability": 38199,
+        "punctuality": 12578,
+        "availability": 47420,
+        "created_at": "2023-09-05T18:47:56.162Z",
+        "updated_at": "2023-09-06T11:31:55.961Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "87d5c4be-14da-4d5f-b2e7-ed95fe8b7f7d",
+        "name": "Sports Enthusiasts",
+        "description": "Group for people passionate about sports",
+        "created_at": "2023-09-06T05:35:42.205Z",
+        "updated_at": "2023-09-06T14:39:35.317Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c7ab08e8-97a6-4f4b-b4c6-01f6f6bf9c5b",
+        "name": "Book Club",
+        "description": "A club for book lovers",
+        "created_at": "2023-09-05T19:23:11.748Z",
+        "updated_at": "2023-09-06T14:01:03.354Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f52d27a-eacf-4a16-9add-658f3de123ce",
+        "name": "Art Lovers",
+        "description": "Community of art enthusiasts",
+        "created_at": "2023-09-05T18:15:37.107Z",
+        "updated_at": "2023-09-06T06:45:26.728Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9cc0c3bb-9cd8-4f96-8d70-4b860a1904d1",
+        "name": "Hiking Group",
+        "description": "Group for hiking and nature lovers",
+        "created_at": "2023-09-05T17:53:28.525Z",
+        "updated_at": "2023-09-06T01:22:54.744Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29ced535-b610-483f-95ef-ddb8b88ea7a0",
+        "name": "Music Band",
+        "description": "Band playing various genres of music",
+        "created_at": "2023-09-06T04:46:15.150Z",
+        "updated_at": "2023-09-06T11:33:31.831Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "9eadfd2c-8b76-4f7a-bc8a-b393ead0777c",
+        "name": "Supreme Court",
+        "location": "Washington D.C.",
+        "availability_status": false,
+        "created_at": "2023-09-06T12:06:22.793Z",
+        "updated_at": "2023-09-06T05:59:35.367Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c974f477-ecff-4027-af61-be5ad10ff619",
+        "name": "District Court",
+        "location": "New York City",
+        "availability_status": true,
+        "created_at": "2023-09-06T04:46:34.342Z",
+        "updated_at": "2023-09-05T21:30:25.401Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca64ff7d-8755-476f-806b-e3b83c0116da",
+        "name": "High Court",
+        "location": "London",
+        "availability_status": false,
+        "created_at": "2023-09-05T18:55:52.633Z",
+        "updated_at": "2023-09-06T05:01:58.791Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "832ffa10-9cc8-476b-aee1-994cd9bb1d6d",
+        "name": "Appellate Court",
+        "location": "San Francisco",
+        "availability_status": true,
+        "created_at": "2023-09-06T05:23:17.857Z",
+        "updated_at": "2023-09-06T08:04:00.074Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1bea9cc-2a5c-4644-8c4b-ae1b21b14647",
+        "name": "Family Court",
+        "location": "Sydney",
+        "availability_status": true,
+        "created_at": "2023-09-06T10:06:31.009Z",
+        "updated_at": "2023-09-06T11:54:04.728Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "d0e6975a-d68f-4a85-954c-608a12b29530",
+        "date": "2023-09-06T09:01:51.392Z",
+        "time": "2023-09-06T06:57:24.830Z",
+        "location": "Stadium A",
+        "status": "Scheduled",
+        "created_at": "2023-09-06T06:21:34.066Z",
+        "updated_at": "2023-09-06T02:52:28.797Z",
+        "court_id": "c974f477-ecff-4027-af61-be5ad10ff619",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ce80943-5286-49d6-b5c7-90eddc35c389",
+        "date": "2023-09-05T21:07:36.184Z",
+        "time": "2023-09-05T20:18:20.464Z",
+        "location": "Arena B",
+        "status": "In Progress",
+        "created_at": "2023-09-06T09:23:38.059Z",
+        "updated_at": "2023-09-06T02:31:15.775Z",
+        "court_id": "832ffa10-9cc8-476b-aee1-994cd9bb1d6d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f86d2de-2dff-4e2e-8e05-b5d4d73ae018",
+        "date": "2023-09-06T06:05:42.523Z",
+        "time": "2023-09-05T22:01:34.534Z",
+        "location": "Field C",
+        "status": "Completed",
+        "created_at": "2023-09-06T08:18:53.986Z",
+        "updated_at": "2023-09-06T13:39:12.067Z",
+        "court_id": "ca64ff7d-8755-476f-806b-e3b83c0116da",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "377f6a2a-f1ec-41c4-95e5-cad329708040",
+        "date": "2023-09-06T10:08:40.224Z",
+        "time": "2023-09-05T19:29:51.093Z",
+        "location": "Court D",
+        "status": "Cancelled",
+        "created_at": "2023-09-05T17:22:47.701Z",
+        "updated_at": "2023-09-06T06:08:35.006Z",
+        "court_id": "c1bea9cc-2a5c-4644-8c4b-ae1b21b14647",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92e436ba-4a41-41dd-8f48-8b735706b84a",
+        "date": "2023-09-06T04:43:50.569Z",
+        "time": "2023-09-06T13:43:25.519Z",
+        "location": "Pitch E",
+        "status": "Postponed",
+        "created_at": "2023-09-06T05:52:58.058Z",
+        "updated_at": "2023-09-06T14:53:18.998Z",
+        "court_id": "832ffa10-9cc8-476b-aee1-994cd9bb1d6d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a6c684a5-3c78-4782-bb98-569f7799535d",
+        "email": "Noemi96@yahoo.com",
+        "firstName": "Eino",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57328172",
+        "tenantId": null
+      },
+      {
+        "reference": "c9aad2e9-adeb-436a-a5cf-46217e78659f",
+        "email": "Michele85@hotmail.com",
+        "firstName": "Cheyanne",
+        "lastName": "Hammes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/682.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "86b97f04-4aee-4a1f-9527-ed3178579c78",
+        "email": "Domingo_McLaughlin@yahoo.com",
+        "firstName": "Jennifer",
+        "lastName": "Jast",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13264234",
+        "tenantId": null
+      },
+      {
+        "reference": "e137103c-9ec4-4f05-aff4-5653347ecb62",
+        "email": "Madaline.Becker@gmail.com",
+        "firstName": "Penelope",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35118891",
+        "tenantId": null
+      },
+      {
+        "reference": "fcb8cc58-602c-4591-91ee-0cfb55107337",
+        "email": "Caitlyn_Stark@yahoo.com",
+        "firstName": "Abbie",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/299.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "ranking": [
+      {
+        "id": "5abbb68d-6b41-41d4-bced-5bec4abd9d50",
+        "score": 47388,
+        "fair_play": 53428,
+        "playability": 47691,
+        "punctuality": 35406,
+        "availability": 96596,
+        "created_at": "2023-09-06T12:09:18.114Z",
+        "updated_at": "2023-09-06T09:42:09.669Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5e6bfcf-dcb6-4c27-aabe-74e22b46d0ce",
+        "score": 78828,
+        "fair_play": 15651,
+        "playability": 21631,
+        "punctuality": 23558,
+        "availability": 24901,
+        "created_at": "2023-09-06T11:06:49.858Z",
+        "updated_at": "2023-09-06T11:25:54.697Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59192032-8e01-4ded-9ccf-4ad837f68298",
+        "score": 32002,
+        "fair_play": 48106,
+        "playability": 87558,
+        "punctuality": 17527,
+        "availability": 51942,
+        "created_at": "2023-09-06T05:03:30.286Z",
+        "updated_at": "2023-09-06T06:54:01.416Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3868cac0-36a3-4aa2-a83c-c8dbc3675f1d",
+        "score": 7822,
+        "fair_play": 37957,
+        "playability": 11325,
+        "punctuality": 29839,
+        "availability": 77339,
+        "created_at": "2023-09-06T07:39:02.892Z",
+        "updated_at": "2023-09-06T04:43:33.532Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52411084-c708-4dbc-849b-c9893071216d",
+        "score": 42163,
+        "fair_play": 94305,
+        "playability": 47968,
+        "punctuality": 38890,
+        "availability": 97519,
+        "created_at": "2023-09-05T22:18:54.589Z",
+        "updated_at": "2023-09-06T02:47:14.929Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "10aa91bd-32b0-4fd5-8160-9625c676356a",
+        "name": "Sports Enthusiasts",
+        "description": "Group for people who love playing sports and staying active",
+        "created_at": "2023-09-06T10:17:14.877Z",
+        "updated_at": "2023-09-06T13:34:13.206Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f51577e-8dbc-4617-ae8f-d036ca3b34d4",
+        "name": "Book Club",
+        "description": "A community of bookworms sharing their favorite reads",
+        "created_at": "2023-09-06T13:24:27.548Z",
+        "updated_at": "2023-09-06T14:44:32.946Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5aaf9e9-2ca7-4dcf-98f4-8cc1799603f9",
+        "name": "Art Lovers",
+        "description": "Group for art enthusiasts to discuss and appreciate art",
+        "created_at": "2023-09-06T11:15:51.324Z",
+        "updated_at": "2023-09-05T21:47:31.013Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "662c5135-85c1-4793-9723-420399710c03",
+        "name": "Outdoor Adventurers",
+        "description": "For those who enjoy outdoor activities and exploring nature",
+        "created_at": "2023-09-05T20:17:25.494Z",
+        "updated_at": "2023-09-06T06:41:20.602Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1667f782-9954-46ce-8fdc-fe603506e156",
+        "name": "Foodies",
+        "description": "Community of food lovers sharing recipes and restaurant recommendations",
+        "created_at": "2023-09-05T20:11:24.909Z",
+        "updated_at": "2023-09-05T20:31:02.469Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "13b60480-ff68-43c2-9dd2-0d393620b846",
+        "name": "Central District Court",
+        "location": "New York",
+        "availability_status": false,
+        "created_at": "2023-09-05T23:16:12.497Z",
+        "updated_at": "2023-09-05T18:50:54.982Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "84ee25c9-b7ae-4e59-9019-b68cd4d39a4c",
+        "name": "City Municipal Court",
+        "location": "Los Angeles",
+        "availability_status": false,
+        "created_at": "2023-09-06T00:29:09.725Z",
+        "updated_at": "2023-09-06T08:13:05.304Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ffc52ef-5373-421a-b408-f9f0dc3160f5",
+        "name": "Supreme Court of Justice",
+        "location": "Washington D.C.",
+        "availability_status": false,
+        "created_at": "2023-09-06T13:04:15.182Z",
+        "updated_at": "2023-09-06T12:31:02.907Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb36027e-e5ea-4947-82fc-79ccb6fae3c1",
+        "name": "County Circuit Court",
+        "location": "Chicago",
+        "availability_status": true,
+        "created_at": "2023-09-06T12:49:54.842Z",
+        "updated_at": "2023-09-06T05:55:07.165Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4fab9b51-d211-4ca0-a237-5ab582279767",
+        "name": "Federal Appeals Court",
+        "location": "San Francisco",
+        "availability_status": true,
+        "created_at": "2023-09-06T02:34:07.765Z",
+        "updated_at": "2023-09-05T20:41:47.648Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "f70c2a49-ef40-4386-9874-08a0fadf0c4b",
+        "date": "2023-09-06T02:27:51.913Z",
+        "time": "2023-09-05T23:33:46.813Z",
+        "location": "Stadium A",
+        "status": "Upcoming",
+        "created_at": "2023-09-06T02:15:55.966Z",
+        "updated_at": "2023-09-06T01:12:44.671Z",
+        "court_id": "84ee25c9-b7ae-4e59-9019-b68cd4d39a4c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2af002d7-7267-4193-bc71-7b1585c67bec",
+        "date": "2023-09-05T23:57:56.086Z",
+        "time": "2023-09-06T04:31:41.567Z",
+        "location": "Arena B",
+        "status": "In Progress",
+        "created_at": "2023-09-05T20:16:34.535Z",
+        "updated_at": "2023-09-05T20:10:22.380Z",
+        "court_id": "6ffc52ef-5373-421a-b408-f9f0dc3160f5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b64c9ff4-39c0-4a0a-b92e-f3ba5885bc09",
+        "date": "2023-09-05T23:24:42.629Z",
+        "time": "2023-09-05T23:02:19.275Z",
+        "location": "Field C",
+        "status": "Completed",
+        "created_at": "2023-09-06T00:05:03.830Z",
+        "updated_at": "2023-09-06T16:33:54.174Z",
+        "court_id": "13b60480-ff68-43c2-9dd2-0d393620b846",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e388133-f1eb-457e-ae5d-a7a5c0ed49a5",
+        "date": "2023-09-06T16:17:06.579Z",
+        "time": "2023-09-06T07:22:59.956Z",
+        "location": "Court D",
+        "status": "Cancelled",
+        "created_at": "2023-09-06T03:09:40.718Z",
+        "updated_at": "2023-09-06T09:52:47.495Z",
+        "court_id": "13b60480-ff68-43c2-9dd2-0d393620b846",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ffd2c74-ace5-43bb-b965-76513efd431e",
+        "date": "2023-09-05T17:01:45.520Z",
+        "time": "2023-09-06T08:37:38.249Z",
+        "location": "Gymnasium E",
+        "status": "Postponed",
+        "created_at": "2023-09-05T18:27:31.607Z",
+        "updated_at": "2023-09-06T00:13:00.081Z",
+        "court_id": "4fab9b51-d211-4ca0-a237-5ab582279767",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a13a5247-592b-4f62-a745-2b656401ae23",
+        "email": "Rosalinda26@hotmail.com",
+        "firstName": "Ivy",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/665.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5b74fd11-3183-47f2-ac7d-d10054be078b",
+        "email": "Cindy.Steuber55@hotmail.com",
+        "firstName": "Santiago",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55685791",
+        "tenantId": null
+      },
+      {
+        "reference": "7d785c0f-e0e1-4ae6-993e-df7d882ca8ec",
+        "email": "Joesph.Botsford97@yahoo.com",
+        "firstName": "Garry",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/537.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "70f4a43c-0ee4-4c0e-9f1c-d410a84188b4",
+        "email": "Erich13@hotmail.com",
+        "firstName": "Fred",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aca3e82c-e715-4342-987c-fb7a01f219ef",
+        "email": "Francis32@hotmail.com",
+        "firstName": "Clark",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10485741",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "ranking": [
+      {
+        "id": "1832c716-27c7-4eb2-913e-535e5419d329",
+        "score": 64175,
+        "fair_play": 80503,
+        "playability": 1221,
+        "punctuality": 90320,
+        "availability": 32679,
+        "created_at": "2023-09-05T17:39:41.152Z",
+        "updated_at": "2023-09-05T19:41:35.814Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39a71e5c-aadd-412f-9575-90ce9ac71699",
+        "score": 59226,
+        "fair_play": 42020,
+        "playability": 69957,
+        "punctuality": 14856,
+        "availability": 83985,
+        "created_at": "2023-09-05T22:04:43.547Z",
+        "updated_at": "2023-09-05T19:35:24.618Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "896f5e11-39d2-4da9-862b-b26e80e39702",
+        "score": 26631,
+        "fair_play": 56151,
+        "playability": 45903,
+        "punctuality": 70353,
+        "availability": 65864,
+        "created_at": "2023-09-06T09:55:00.089Z",
+        "updated_at": "2023-09-06T04:03:58.079Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22d41a79-7e1a-48cc-8ee0-4e86164e9446",
+        "score": 68168,
+        "fair_play": 99449,
+        "playability": 69439,
+        "punctuality": 96749,
+        "availability": 56940,
+        "created_at": "2023-09-05T19:39:28.630Z",
+        "updated_at": "2023-09-05T18:16:03.541Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9eaee87d-aa58-4c42-9532-b9aa2a5be744",
+        "score": 94404,
+        "fair_play": 82544,
+        "playability": 4937,
+        "punctuality": 98521,
+        "availability": 93550,
+        "created_at": "2023-09-05T19:47:53.095Z",
+        "updated_at": "2023-09-06T06:55:02.751Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "77e9d0b9-a343-4512-83d1-a8c625701cd5",
+        "name": "Marketing Team",
+        "description": "Responsible for promoting products and services",
+        "created_at": "2023-09-05T20:07:12.217Z",
+        "updated_at": "2023-09-06T01:22:47.570Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "530c7be8-9210-4b64-8104-abc66b7f4b88",
+        "name": "Sales Team",
+        "description": "Handles customer inquiries and resolves issues",
+        "created_at": "2023-09-06T06:28:55.596Z",
+        "updated_at": "2023-09-05T19:34:07.488Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1623472-2cf3-47f4-a45c-585232db89f0",
+        "name": "Product Development Team",
+        "description": "Creates and improves products based on market research",
+        "created_at": "2023-09-06T01:09:24.322Z",
+        "updated_at": "2023-09-05T22:26:39.855Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60cdbde0-f759-41c9-8e42-8dd13a2a6818",
+        "name": "Customer Support Team",
+        "description": "Provides financial analysis and reporting",
+        "created_at": "2023-09-05T18:33:38.280Z",
+        "updated_at": "2023-09-06T02:17:01.283Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3718491-e7e3-4737-a0fc-259393eea853",
+        "name": "Finance Team",
+        "description": "Drives sales and revenue growth",
+        "created_at": "2023-09-06T15:25:15.977Z",
+        "updated_at": "2023-09-06T07:06:45.852Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "0695c4b2-3811-4189-83fb-578ef0ad840c",
+        "name": "Supreme Court",
+        "location": "Washington, D.C.",
+        "availability_status": false,
+        "created_at": "2023-09-06T12:20:08.691Z",
+        "updated_at": "2023-09-06T01:22:21.102Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d9f34a85-566d-41f5-91ce-200978ca63d1",
+        "name": "District Court",
+        "location": "New York City, NY",
+        "availability_status": false,
+        "created_at": "2023-09-06T04:00:15.853Z",
+        "updated_at": "2023-09-06T16:06:31.837Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b5ad3c6-c000-4272-9989-4f1744f72cf2",
+        "name": "Appellate Court",
+        "location": "San Francisco, CA",
+        "availability_status": true,
+        "created_at": "2023-09-06T01:53:30.186Z",
+        "updated_at": "2023-09-05T19:32:01.823Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c63883f9-1700-4d5e-862f-dbfcf8aa0f35",
+        "name": "Family Court",
+        "location": "Chicago, IL",
+        "availability_status": true,
+        "created_at": "2023-09-05T23:27:25.258Z",
+        "updated_at": "2023-09-05T23:51:21.115Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3d7b781-a7bf-4136-bec0-993cd98cbd1c",
+        "name": "Criminal Court",
+        "location": "Houston, TX",
+        "availability_status": false,
+        "created_at": "2023-09-05T16:50:49.104Z",
+        "updated_at": "2023-09-06T13:35:53.291Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "07fc5982-8618-4689-be2f-4892a0fdc879",
+        "date": "2023-09-06T08:48:11.041Z",
+        "time": "2023-09-06T05:22:27.691Z",
+        "location": "Stadium A",
+        "status": "Scheduled",
+        "created_at": "2023-09-06T16:49:33.546Z",
+        "updated_at": "2023-09-06T13:12:23.797Z",
+        "court_id": "f3d7b781-a7bf-4136-bec0-993cd98cbd1c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a29513f1-9da7-4955-b76b-17284f7baa21",
+        "date": "2023-09-06T05:01:16.809Z",
+        "time": "2023-09-06T04:55:13.441Z",
+        "location": "Arena B",
+        "status": "In Progress",
+        "created_at": "2023-09-06T05:41:45.680Z",
+        "updated_at": "2023-09-06T10:14:19.281Z",
+        "court_id": "1b5ad3c6-c000-4272-9989-4f1744f72cf2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4070743-9a7b-4d35-ac90-52a7156f9d94",
+        "date": "2023-09-05T17:50:09.807Z",
+        "time": "2023-09-05T18:05:43.849Z",
+        "location": "Field C",
+        "status": "Completed",
+        "created_at": "2023-09-06T13:46:02.453Z",
+        "updated_at": "2023-09-05T23:08:59.277Z",
+        "court_id": "0695c4b2-3811-4189-83fb-578ef0ad840c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "269a2c3b-b082-4fa7-a6e7-419da29dc506",
+        "date": "2023-09-06T06:12:09.364Z",
+        "time": "2023-09-06T09:26:45.917Z",
+        "location": "Court D",
+        "status": "Cancelled",
+        "created_at": "2023-09-05T21:55:02.728Z",
+        "updated_at": "2023-09-06T09:54:49.033Z",
+        "court_id": "1b5ad3c6-c000-4272-9989-4f1744f72cf2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2967a07f-82a3-4c15-ac44-dbad51659613",
+        "date": "2023-09-06T10:47:30.264Z",
+        "time": "2023-09-05T22:59:45.062Z",
+        "location": "Gymnasium E",
+        "status": "Postponed",
+        "created_at": "2023-09-06T02:33:25.496Z",
+        "updated_at": "2023-09-06T14:52:10.069Z",
+        "court_id": "1b5ad3c6-c000-4272-9989-4f1744f72cf2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8270a625-01ed-4d89-b950-ac720af61e43",
+        "email": "Austyn.Hilpert@gmail.com",
+        "firstName": "Darby",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89019177",
+        "tenantId": null
+      },
+      {
+        "reference": "dd73da6e-2ea2-433b-adc9-d9fcf960ad41",
+        "email": "Eliseo.Brakus13@yahoo.com",
+        "firstName": "Ludwig",
+        "lastName": "Hackett",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/199.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9c998f1c-9f23-457b-9c95-317ca111c0b4",
+        "email": "Leonora.Gerhold@hotmail.com",
+        "firstName": "Courtney",
+        "lastName": "Fay",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35394561",
+        "tenantId": null
+      },
+      {
+        "reference": "6db74509-4e90-4afe-9024-c9154db5a6a3",
+        "email": "Kade.Okuneva3@yahoo.com",
+        "firstName": "Malika",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/579.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e5b9fcda-faf0-4e12-a1f4-bea3fa6e9e6a",
+        "email": "Adelle85@gmail.com",
+        "firstName": "Orlo",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/675.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "ranking": [
+      {
+        "id": "d38b4dd5-3e4e-4299-8a5a-657f258d4731",
+        "score": 93883,
+        "fair_play": 8849,
+        "playability": 41690,
+        "punctuality": 21141,
+        "availability": 20737,
+        "created_at": "2023-09-06T15:39:26.414Z",
+        "updated_at": "2023-09-06T00:51:58.355Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20096a74-cb04-49fb-9b51-4315c1833c11",
+        "score": 59303,
+        "fair_play": 74255,
+        "playability": 84600,
+        "punctuality": 40063,
+        "availability": 44026,
+        "created_at": "2023-09-05T21:37:39.747Z",
+        "updated_at": "2023-09-06T14:46:20.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1912757c-da05-4491-a779-6225d65d71e3",
+        "score": 22635,
+        "fair_play": 99916,
+        "playability": 64506,
+        "punctuality": 7657,
+        "availability": 81105,
+        "created_at": "2023-09-05T19:18:05.603Z",
+        "updated_at": "2023-09-06T15:02:38.720Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25b20d22-f9c3-4a2b-80e8-0bca3405786e",
+        "score": 32589,
+        "fair_play": 20956,
+        "playability": 99129,
+        "punctuality": 31827,
+        "availability": 65220,
+        "created_at": "2023-09-06T12:03:02.996Z",
+        "updated_at": "2023-09-06T12:58:17.899Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81fe642f-dd2c-406e-acae-f2635f506d7b",
+        "score": 74673,
+        "fair_play": 83411,
+        "playability": 42625,
+        "punctuality": 1899,
+        "availability": 55466,
+        "created_at": "2023-09-06T06:43:52.296Z",
+        "updated_at": "2023-09-05T17:29:01.643Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "f17e5e54-943e-4837-a59b-1b159536758d",
+        "name": "Marketing Team",
+        "description": "Responsible for promoting products and services",
+        "created_at": "2023-09-06T11:51:42.524Z",
+        "updated_at": "2023-09-05T23:39:33.867Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15a666cb-d742-4783-89a5-ba4a4ad2b118",
+        "name": "Sales Team",
+        "description": "Responsible for driving revenue through sales",
+        "created_at": "2023-09-05T22:34:27.540Z",
+        "updated_at": "2023-09-06T12:53:18.153Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95276d81-b067-4d9a-a2b1-d09c584bd0cf",
+        "name": "Product Development Team",
+        "description": "Responsible for creating new products and features",
+        "created_at": "2023-09-06T07:05:21.481Z",
+        "updated_at": "2023-09-05T16:58:16.910Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82fce5d3-f861-4803-87b5-c764e0cabc85",
+        "name": "Customer Support Team",
+        "description": "Responsible for assisting customers with their queries",
+        "created_at": "2023-09-06T14:12:42.835Z",
+        "updated_at": "2023-09-05T19:45:27.190Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f54a1618-fac2-4fc4-a591-bf7a00f02c92",
+        "name": "Finance Team",
+        "description": "Responsible for managing financial operations",
+        "created_at": "2023-09-06T03:56:06.956Z",
+        "updated_at": "2023-09-06T01:18:42.505Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "305f2cec-bc05-4060-bb68-e2de102096d5",
+        "name": "Supreme Court",
+        "location": "Washington D.C.",
+        "availability_status": true,
+        "created_at": "2023-09-05T21:54:58.542Z",
+        "updated_at": "2023-09-06T06:48:41.419Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17c9558a-931a-4829-91bb-35fbff678181",
+        "name": "District Court",
+        "location": "New York City",
+        "availability_status": true,
+        "created_at": "2023-09-06T09:54:43.864Z",
+        "updated_at": "2023-09-06T13:00:00.555Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b83b74d4-42d1-454d-8d50-b2752ac9e019",
+        "name": "High Court",
+        "location": "London",
+        "availability_status": false,
+        "created_at": "2023-09-05T18:40:28.276Z",
+        "updated_at": "2023-09-06T00:29:45.084Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f94c3740-95fc-4f2d-bc18-80ec350dc121",
+        "name": "Appellate Court",
+        "location": "Los Angeles",
+        "availability_status": false,
+        "created_at": "2023-09-06T04:30:24.498Z",
+        "updated_at": "2023-09-05T19:27:55.129Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9a1f7a28-c4ba-4e66-b585-a847d4ff554e",
+        "name": "Family Court",
+        "location": "Sydney",
+        "availability_status": false,
+        "created_at": "2023-09-06T14:22:37.221Z",
+        "updated_at": "2023-09-06T15:09:25.690Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "78234abe-0e01-47ec-8239-40f19c7d2a43",
+        "date": "2023-09-06T07:53:21.278Z",
+        "time": "2023-09-05T17:01:53.218Z",
+        "location": "Stadium A",
+        "status": "Upcoming",
+        "created_at": "2023-09-06T15:05:26.155Z",
+        "updated_at": "2023-09-06T14:28:07.575Z",
+        "court_id": "305f2cec-bc05-4060-bb68-e2de102096d5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39fe95c2-6f6c-45e6-bc4d-947dff414532",
+        "date": "2023-09-05T22:30:51.464Z",
+        "time": "2023-09-06T03:06:18.364Z",
+        "location": "Stadium B",
+        "status": "Ongoing",
+        "created_at": "2023-09-06T16:03:07.320Z",
+        "updated_at": "2023-09-05T18:57:20.316Z",
+        "court_id": "17c9558a-931a-4829-91bb-35fbff678181",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a0655cf-5241-41d9-a958-fce3d7033ff3",
+        "date": "2023-09-06T10:46:48.334Z",
+        "time": "2023-09-06T03:49:00.016Z",
+        "location": "Stadium C",
+        "status": "Completed",
+        "created_at": "2023-09-06T03:09:41.471Z",
+        "updated_at": "2023-09-06T00:51:11.419Z",
+        "court_id": "f94c3740-95fc-4f2d-bc18-80ec350dc121",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f36973f-69aa-4e5c-80ca-44cfb794f8ef",
+        "date": "2023-09-06T07:54:27.655Z",
+        "time": "2023-09-05T21:28:45.631Z",
+        "location": "Stadium D",
+        "status": "Cancelled",
+        "created_at": "2023-09-05T17:01:30.129Z",
+        "updated_at": "2023-09-05T23:22:25.678Z",
+        "court_id": "f94c3740-95fc-4f2d-bc18-80ec350dc121",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af7dc23d-b6c6-4214-90ce-89930c831b10",
+        "date": "2023-09-06T09:11:57.370Z",
+        "time": "2023-09-06T00:36:15.020Z",
+        "location": "Stadium E",
+        "status": "Postponed",
+        "created_at": "2023-09-06T04:52:39.468Z",
+        "updated_at": "2023-09-05T20:53:06.498Z",
+        "court_id": "9a1f7a28-c4ba-4e66-b585-a847d4ff554e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a5830669-5139-46d2-a5eb-18435554e0f7",
+        "email": "Ciara26@hotmail.com",
+        "firstName": "Velda",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12473970",
+        "tenantId": null
+      },
+      {
+        "reference": "c3288874-ea5d-4009-95f7-a360016415d4",
+        "email": "Alexanne.Welch@yahoo.com",
+        "firstName": "Colin",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/919.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9700d969-f1d8-469c-923c-b9089e518856",
+        "email": "Nicklaus_Sporer@hotmail.com",
+        "firstName": "Jonas",
+        "lastName": "Nicolas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1213.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2734552d-ce23-44b3-bf9c-3799a1892d3c",
+        "email": "Lelia21@yahoo.com",
+        "firstName": "Ottilie",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84293658",
+        "tenantId": null
+      },
+      {
+        "reference": "a38e5c5d-37f0-4036-8507-128a3006c05f",
+        "email": "Rylee61@gmail.com",
+        "firstName": "Neha",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86288938",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "ranking": [
+      {
+        "id": "8b9db232-d1eb-451e-9b86-beb2aafdd4b5",
+        "score": 31232,
+        "fair_play": 32132,
+        "playability": 52782,
+        "punctuality": 24645,
+        "availability": 22778,
+        "created_at": "2023-09-06T12:57:19.770Z",
+        "updated_at": "2023-09-05T23:21:22.004Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dc6b6044-59d7-43c4-8a63-0e9cc4647ec6",
+        "score": 93929,
+        "fair_play": 71246,
+        "playability": 91310,
+        "punctuality": 36511,
+        "availability": 92518,
+        "created_at": "2023-09-06T13:39:43.256Z",
+        "updated_at": "2023-09-06T02:37:14.293Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0831442-c0d0-4053-9716-438be04c4b5c",
+        "score": 35251,
+        "fair_play": 46710,
+        "playability": 74479,
+        "punctuality": 1108,
+        "availability": 11206,
+        "created_at": "2023-09-06T00:01:26.065Z",
+        "updated_at": "2023-09-06T01:28:50.855Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f413ce9-f41f-4ea5-aeac-0b111434e9ab",
+        "score": 55741,
+        "fair_play": 17249,
+        "playability": 23786,
+        "punctuality": 61495,
+        "availability": 30279,
+        "created_at": "2023-09-06T09:03:09.843Z",
+        "updated_at": "2023-09-06T00:24:33.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ca09e87-23a7-4fdb-bf74-bb66274ef58e",
+        "score": 5562,
+        "fair_play": 30230,
+        "playability": 56387,
+        "punctuality": 61184,
+        "availability": 37432,
+        "created_at": "2023-09-06T11:02:48.133Z",
+        "updated_at": "2023-09-06T16:07:51.508Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "group": [
+      {
+        "id": "273139ad-c50d-4048-b00f-8ac19cf94026",
+        "name": "Marketing Team",
+        "description": "Responsible for promoting products and services",
+        "created_at": "2023-09-06T01:25:16.531Z",
+        "updated_at": "2023-09-05T19:33:39.554Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7dfac955-41bd-41dd-85ba-a797741a825a",
+        "name": "Sales Team",
+        "description": "Responsible for driving revenue and customer acquisition",
+        "created_at": "2023-09-06T14:17:31.096Z",
+        "updated_at": "2023-09-05T20:47:35.895Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77c24352-126a-47d6-9f3f-da11842832f9",
+        "name": "Product Development Team",
+        "description": "Responsible for creating new products and features",
+        "created_at": "2023-09-06T07:17:52.301Z",
+        "updated_at": "2023-09-05T20:29:11.414Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bd681a9-d29b-464d-9b37-a97421819fef",
+        "name": "Finance Team",
+        "description": "Responsible for financial planning and analysis",
+        "created_at": "2023-09-05T20:02:49.435Z",
+        "updated_at": "2023-09-06T10:12:50.669Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc777626-96f5-4bf5-aed4-61bba1beae10",
+        "name": "Operations Team",
+        "description": "Responsible for managing day-to-day operations",
+        "created_at": "2023-09-06T05:01:00.661Z",
+        "updated_at": "2023-09-05T23:18:58.350Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "court": [
+      {
+        "id": "1fd302cb-78a2-4506-b68f-3859bd752cd1",
+        "name": "Supreme Court",
+        "location": "Washington, D.C.",
+        "availability_status": false,
+        "created_at": "2023-09-06T01:04:51.426Z",
+        "updated_at": "2023-09-05T16:53:38.233Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "291f9924-6ae7-4f54-87ee-984b997bd372",
+        "name": "District Court",
+        "location": "New York City, NY",
+        "availability_status": false,
+        "created_at": "2023-09-06T01:02:27.519Z",
+        "updated_at": "2023-09-06T14:14:33.367Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db8c183e-0877-4ca4-86ba-99d6b72f4c94",
+        "name": "Appellate Court",
+        "location": "San Francisco, CA",
+        "availability_status": true,
+        "created_at": "2023-09-05T18:08:28.081Z",
+        "updated_at": "2023-09-05T23:46:18.610Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "926fe456-f773-427f-bd59-b434dcc1a1a1",
+        "name": "Family Court",
+        "location": "Chicago, IL",
+        "availability_status": false,
+        "created_at": "2023-09-05T19:36:16.933Z",
+        "updated_at": "2023-09-06T06:37:08.030Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5828914a-5e5f-42c5-8a71-d78f708be89d",
+        "name": "Criminal Court",
+        "location": "Los Angeles, CA",
+        "availability_status": true,
+        "created_at": "2023-09-06T04:05:54.022Z",
+        "updated_at": "2023-09-06T07:57:04.044Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "match": [
+      {
+        "id": "b25f15b1-6c3f-46d8-94e6-952deb19c594",
+        "date": "2023-09-05T18:32:52.798Z",
+        "time": "2023-09-05T20:39:10.465Z",
+        "location": "Stadium A",
+        "status": "In progress",
+        "created_at": "2023-09-05T19:37:27.585Z",
+        "updated_at": "2023-09-06T11:55:15.944Z",
+        "court_id": "291f9924-6ae7-4f54-87ee-984b997bd372",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e119217-7864-4aa5-a51a-72ef139386c8",
+        "date": "2023-09-06T00:15:36.001Z",
+        "time": "2023-09-06T00:59:59.680Z",
+        "location": "Arena B",
+        "status": "Completed",
+        "created_at": "2023-09-06T04:55:03.249Z",
+        "updated_at": "2023-09-05T18:34:13.484Z",
+        "court_id": "db8c183e-0877-4ca4-86ba-99d6b72f4c94",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a72a04cf-7ecb-4a85-a67c-7085e634fc38",
+        "date": "2023-09-06T09:13:58.127Z",
+        "time": "2023-09-06T05:59:21.663Z",
+        "location": "Field C",
+        "status": "Cancelled",
+        "created_at": "2023-09-05T18:53:58.033Z",
+        "updated_at": "2023-09-06T05:59:35.386Z",
+        "court_id": "291f9924-6ae7-4f54-87ee-984b997bd372",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75426f8f-3a99-496c-b763-6b4b3522ceab",
+        "date": "2023-09-06T12:44:44.909Z",
+        "time": "2023-09-06T16:17:19.812Z",
+        "location": "Court D",
+        "status": "Postponed",
+        "created_at": "2023-09-06T14:03:12.880Z",
+        "updated_at": "2023-09-06T07:59:00.055Z",
+        "court_id": "db8c183e-0877-4ca4-86ba-99d6b72f4c94",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e84cd9aa-816e-4f23-8687-bd793e5b60ce",
+        "date": "2023-09-06T03:25:38.808Z",
+        "time": "2023-09-06T16:34:50.267Z",
+        "location": "Gymnasium E",
+        "status": "Upcoming",
+        "created_at": "2023-09-06T13:57:45.750Z",
+        "updated_at": "2023-09-05T17:24:54.115Z",
+        "court_id": "db8c183e-0877-4ca4-86ba-99d6b72f4c94",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "aec92f01-dd69-4633-b592-b8db8213bc44",
+        "email": "Cordie_Hauck85@gmail.com",
+        "firstName": "Helena",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84591462",
+        "tenantId": null
+      },
+      {
+        "reference": "d7d87b50-3a17-4e84-a45e-969037e24d8b",
+        "email": "Joey.Denesik5@gmail.com",
+        "firstName": "Quinn",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23364296",
+        "tenantId": null
+      },
+      {
+        "reference": "ebf8903c-c360-4c02-ae4c-7089fd5a1b71",
+        "email": "Domenica_Price58@hotmail.com",
+        "firstName": "Donnell",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/858.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "146130d3-5648-409f-9d54-7eb1ec31c650",
+        "email": "Reyna29@yahoo.com",
+        "firstName": "Isobel",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/178.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7d02a9ed-265b-4420-9d04-44d429ba4216",
+        "email": "Rogers.Treutel@yahoo.com",
+        "firstName": "Brenden",
+        "lastName": "Christiansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1005.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
